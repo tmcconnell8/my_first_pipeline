@@ -6,6 +6,6 @@ node {
 		sh 'echo "hey, this is stage two folks!"'
 	}
 	stage ('stage3') {
-		sh 'echo "ECHO ECHO ECho echo..."
+		sh 'echo "ECHO ECHO ECho echo..."'
 	}
 }
